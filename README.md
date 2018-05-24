@@ -1,4 +1,4 @@
-# CVPR Spider
+# CVPRpaperreading
 
 Hello!CVPR2017.py is a spider to collect all papers in CVPR2017.I will update this repository to implement some algorithms in CVPR later.It's a helloworld project.
 
